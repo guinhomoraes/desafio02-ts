@@ -1,4 +1,4 @@
-.header {
+.footer {
     background-color: white;
     height: 50px;
     color: white;
@@ -7,7 +7,7 @@
     justify-content: center;
 }
 
-.header p
+.footer p
 {
     font-size: 30px;
     font-weight: bold;
